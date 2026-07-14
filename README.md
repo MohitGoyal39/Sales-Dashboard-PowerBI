@@ -5,7 +5,7 @@ A 3-page Power BI report analyzing FY2023–2024 retail sales — tracking reven
 ## Preview
 ![Executive Overview](Executive%20Overview.png)
 ![Product Performance](Product%20Analysis.png)
-![Key Insights](Key%20Insights.png)
+![Key Insights](key%20insights.png)
 
 ## Features
 - Executive Overview, Product Performance, and Key Insights pages
